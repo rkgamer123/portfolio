@@ -7,6 +7,5 @@ title: Rishi Kidave Portfolio
 *Student • Programming • Projects*
 
 ## Projects
-- [Scratch](scratch.md)
-- [About me](about.md)
-- [Contact](contact.md)
+- [Scratch](https://github.com/rkgamer123/scratch-games)
+
