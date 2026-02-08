@@ -8,4 +8,5 @@ title: Rishi Kidave Portfolio
 
 ## Projects
 - [Scratch](https://github.com/rkgamer123/scratch-games)
+- [Certificates](https://rkgamer123.github.io/portfolio/certificates)
 
