@@ -7,8 +7,11 @@ title: Rishi Kidave Portfolio
 *Student • Programming • Projects*
 
 ## Projects
-- [Scratch](https://github.com/rkgamer123/scratch-games)
+- [Uno Game - Java](https://github.com/rkgamer123/projects/tree/main/uno)
+- [Scientific Calculator with GUI - Python](https://github.com/rkgamer123/projects/tree/main/calculator)
+- [Scratch Games](https://github.com/rkgamer123/scratch-games)
+
   
-## Projects
-- [Certificates](https://rkgamer123.github.io/portfolio/certificates)
+## Certificates
+- [Programming](https://rkgamer123.github.io/portfolio/certificates)
 
