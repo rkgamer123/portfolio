@@ -12,7 +12,7 @@ title: Rishi Kidave Portfolio
 - [Uno Game](https://github.com/rkgamer123/projects/tree/main/uno) ![]({{ site.baseurl }}/assets/Java UNO Game.png)
 
 ## Python
-- [Scientific Calculator with GUI](https://github.com/rkgamer123/python/tree/main/calculator) ![]({{ site.baseurl }}/assets/Python Calculator.png)
+- [Scientific Calculator with GUI](https://github.com/rkgamer123/python/tree/master/calculator) ![]({{ site.baseurl }}/assets/Python Calculator.png)
 
 ## Scratch
 - [Scratch Games](https://github.com/rkgamer123/scratch-games)
